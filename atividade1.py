@@ -6,3 +6,4 @@ print("Feito por colaborador 1")
 #oi lindo, saudades.
 #fecho não mano
 #po mano, qual foi só quero te fazer feliz vei
+#sai dai maluco
