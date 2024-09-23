@@ -3,3 +3,4 @@ os.system("cls || clear")
 
 print("Atividade 1")
 print("Feito por colaborador 1")
+#oi lindo, saudades.
