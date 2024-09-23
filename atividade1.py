@@ -7,3 +7,4 @@ print("Feito por colaborador 1")
 #fecho não mano
 #po mano, qual foi só quero te fazer feliz vei
 #sai dai maluco
+#Vou te trancar no porão
